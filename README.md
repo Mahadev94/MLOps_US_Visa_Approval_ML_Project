@@ -23,3 +23,13 @@ This can be used to Recommend a suitable profile for the applicants for whom the
 4. select top few models and tune hyperparameters.
 5. select best model based on desired metrics.
  ----------------------------------------------------------------
+ ## how to run:
+  conda create -p venv14 python=3.8 -y  
+  conda activate venv14  
+  pip install -r requirements.txt  
+ ## Workflow:
+1. constants
+2. entity
+3. components
+4. pipeline
+5. Main file
