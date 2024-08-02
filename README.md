@@ -24,15 +24,16 @@ This can be used to Recommend a suitable profile for the applicants for whom the
 5. select best model based on desired metrics.
  ----------------------------------------------------------------
  ## how to run:
- '''bash
+ 
+```bash
   conda create -p venv14 python=3.8 -y 
-  '''
-  '''bash 
+```
+```bash 
   conda activate venv14 
-  '''
-  '''bash 
+```
+```bash 
   pip install -r requirements.txt  
-  '''
+```
  ## Workflow:
 1. constants
 2. entity
